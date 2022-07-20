@@ -8,4 +8,6 @@ The following tasks were completed to build this website:
 
     2. An index file was created for websites homepage. (index.html)
 
-    3. A directory containg a single recipe page has been created.
+    3. A directory containg a multiple recipe pages has been made. These include images, ordered lists, and unordered lists.
+
+    4. The recipe pages have been linked to the index page. 
